@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:poisonous_potato"],
+          "nbt": "{HeartStar:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "namespace:souleater"
+  }
+}
