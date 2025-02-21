@@ -6,8 +6,8 @@
     "ABA"
   ],
   "key": {
-    "A": "minecraft:leather",
-    "B": "minecraft:glass",
+    "A": "minecraft:glass",
+    "B": "minecraft:totem_of_undying",
     "C": "minecraft:nether_star"
   },
   "result": {
